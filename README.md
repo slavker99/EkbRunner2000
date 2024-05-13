@@ -6,7 +6,7 @@
 
   Игра в VK играх: https://vkplay.ru/play/game/ekb_runner_2000/
 
-  Билд игры: 
+  Игра на itch.io: https://slavker99.itch.io/ekb-runner-2000
 
   Цель игры: погрузить игрока в атмосферу российского города нулевых годов. Показать эпоху перемен, когда среди потёртых панельных домов вырастали новые жилые комплексы, фасады исторических зданий завешивались красочной рекламой, а старые трамваи и автобусы ездили по улицам среди дорогих иномарок. Вспомнить о беззаботном и мечтательном времени.
 
@@ -33,6 +33,9 @@
   ![](https://vkplay.ru/hotbox/showcase/gamehighlight/pic/55ce566c-672e-4cf9-89d3-aafba72c47c0.jpg)
 
   ![](https://vkplay.ru/hotbox/showcase/gamehighlight/pic/b64ae49a-8d12-45d8-b8e9-865f77154c24.jpg)
+
+  ![](https://vkplay.ru/hotbox/showcase/gamehighlight/pic/f9214b1c-1cb1-420b-aeda-5e40cbbd460c.jpg)
+
 
 
 
